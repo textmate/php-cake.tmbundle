@@ -25,7 +25,7 @@
 	<array>
 		<dict>
 			<key>include</key>
-			<string>text.html.basic</string>
+			<string>text.html.php</string>
 		</dict>
 	</array>
 	<key>scopeName</key>
