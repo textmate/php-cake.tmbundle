@@ -6,6 +6,8 @@
 	<string>debug(${1:\$var});</string>
 	<key>name</key>
 	<string>debug(…)</string>
+	<key>scope</key>
+	<string>text.html.php.cake source.php</string>
 	<key>tabTrigger</key>
 	<string>dbg</string>
 	<key>uuid</key>
